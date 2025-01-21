@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "DungGeunMo";
+  src: url(./assets/fonts/DungGeunMo.otf) format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: "DungGeunMo";
+  font-size: 18px;
+}
